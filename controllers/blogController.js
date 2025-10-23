@@ -10,10 +10,10 @@ exports.checkID = (req, res, next, val) => {
   if (req.params.id * 1 > blogs.length) {
     return res.status(404).json({
       status: 'fail',
-      message: 'This is invalid',
+      message: 'Invalid ID',
     });
   }
-
+  s;
   next();
 };
 
