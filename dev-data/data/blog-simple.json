@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding Node.js Event Loop",
+    "author": "Martins Ifeanyi",
+    "content": "The event loop is the core of Node.js performance. It handles asynchronous callbacks and allows Node.js to perform non-blocking operations.",
+    "createdAt": "2025-10-20T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "10 Tips for Writing Clean Express Code",
+    "author": "Jane Doe",
+    "content": "Express is a minimalist framework, but structure is key. Learn how to organize routes, controllers, and middleware for clean code.",
+    "createdAt": "2025-10-21T12:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Beginner’s Guide to REST API Design",
+    "author": "David Johnson",
+    "content": "REST APIs should be simple, predictable, and consistent. This post covers naming conventions, status codes, and response formats.",
+    "createdAt": "2025-10-22T09:15:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Working with Middleware in Express",
+    "author": "Martins Ifeanyi",
+    "content": "Middleware functions in Express are essential for handling requests, logging, and managing authentication. Here’s how to write custom middleware.",
+    "createdAt": "2025-10-23T14:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Handling Errors Gracefully in Node.js",
+    "author": "Emily Carter",
+    "content": "Every Node.js app needs proper error handling. Learn the difference between operational and programmer errors and how to handle them in production.",
+    "createdAt": "2025-10-24T16:45:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Understanding Express Router and Route Parameters",
+    "author": "John Smith",
+    "content": "Express Router helps organize routes into separate modules, improving code readability and scalability. Here’s how it works with route params.",
+    "createdAt": "2025-10-25T08:30:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Asynchronous JavaScript Explained",
+    "author": "Jane Doe",
+    "content": "Promises, async/await, and callbacks are the backbone of asynchronous programming in JavaScript. This post breaks them down with examples.",
+    "createdAt": "2025-10-26T11:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "How to Structure a Node.js Project Like a Pro",
+    "author": "Martins Ifeanyi",
+    "content": "From separating routes to using environment variables, this guide shows how to structure Node.js projects that scale and remain maintainable.",
+    "createdAt": "2025-10-27T17:20:00Z"
+  },
+  { "id": 9, "title": "Blog API" },
+  { "id": 10, "title": "Blog API", "author": "Uchola Ben" },
+  { "id": 11, "title": "Blog API", "author": "Uchola Ben" },
+  {
+    "id": 12,
+    "name": "Test tour",
+    "duration": 10,
+    "difficulty": "easy",
+    "content": "Understanding Blogs",
+    "author": "Martin"
+  },
+  {
+    "id": 13,
+    "name": "Test tour",
+    "duration": 10,
+    "difficulty": "easy",
+    "author": "Martins",
+    "content": "Understand"
+  },
+  {
+    "id": 14,
+    "name": "Test tour",
+    "duration": 19,
+    "difficulty": "easy",
+    "author": "Martins",
+    "content": "Understand"
+  }
+]
